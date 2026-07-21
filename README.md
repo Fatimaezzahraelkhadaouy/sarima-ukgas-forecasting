@@ -113,11 +113,13 @@ The model captures both the upward trend and the quarterly seasonal pattern with
 
 ```
 sarima-ukgas-forecasting/
+├── images/                 # Plots referenced in this README
+├── LICENSE
+└── README.md
 ├── code_UKgas.R          # Full R script — data loading through forecasting
 ├── ukgas_serie.txt        # UKgas dataset (quarterly, 1960-1986)
 ├── rapport_SC_final.pdf   # Full written report (French)
-├── images/                 # Plots referenced in this README
-└── README.md
+├── presentation_SC_finale.pdf       # Project presentation slides (French)
 ```
 
 ---
