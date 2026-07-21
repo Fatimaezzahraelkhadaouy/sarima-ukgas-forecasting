@@ -117,9 +117,9 @@ sarima-ukgas-forecasting/
 ├── LICENSE
 └── README.md
 ├── code_UKgas.R          # Full R script — data loading through forecasting
-├── ukgas_serie.txt        # UKgas dataset (quarterly, 1960-1986)
-├── rapport_SC_final.pdf   # Full written report (French)
 ├── presentation_SC_finale.pdf       # Project presentation slides (French)
+├── rapport_SC_final.pdf   # Full written report (French)
+├── ukgas_serie.txt        # UKgas dataset (quarterly, 1960-1986)
 ```
 
 ---
